@@ -12,14 +12,14 @@ First, you will need to install [git](https://git-scm.com/), if you don't have i
 Next, clone this repository by opening a terminal and typing the following commands:
 
     $ cd $HOME  # or any other development directory you prefer
-    $ git clone https://github.com/ageron/handson-ml.git
+    $ git clone https://github.com/kiamesdavies/java-handson-ml.git
     $ cd handson-ml
 
-If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml/archive/master.zip), unzip it, rename the resulting directory to `handson-ml` and move it to your development directory.
+If you do not want to install git, you can instead download [master.zip]https://github.com/kiamesdavies/java-handson-ml/archive/master.zip), unzip it, rename the resulting directory to `handson-ml` and move it to your development directory.
 
 If you want to go through chapter 16 on Reinforcement Learning, you will need to [install OpenAI gym](https://gym.openai.com/docs) and its dependencies for Atari simulations.
 
-If you are familiar with Python and you know how to install Python libraries, go ahead and install the libraries listed in `requirements.txt` and jump to the [Starting Jupyter](#starting-jupyter) section. If you need detailed instructions, please read on.
+
 
 ## Python & Required Libraries
 Of course, you obviously need Python. Python 2 is already preinstalled on most systems nowadays, and sometimes even Python 3. You can check which version(s) you have by typing the following commands:
