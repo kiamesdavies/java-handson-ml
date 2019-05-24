@@ -106,6 +106,7 @@ The Java Kernel is from (https://github.com/SpencerPark/IJava)
 
     # Otherwise a common install command is
     > python3 install.py --sys-prefix
+    > python3 install.py  --classpath "./weka-libs/*.jar"  --sys-prefix 
     ```
 
 2.  Check that it installed with `jupyter kernelspec list` which should contain `java`.
